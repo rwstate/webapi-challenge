@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    We learned about express.Router() and express().
+
 - [ ] Describe Middleware?
+
+    Middleware intercepts a value, does something with that value, and either interrupts the process or sends a value on to the next function in line.
 
 - [ ] Describe a Resource?
 
+    Resources are data stored on the server.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    The API can return HTTP codes.
+
 - [ ] How can we partition our application into sub-applications?
+
+    We can use routers to handle different API concerns.
 
 ## Minimum Viable Product
 
